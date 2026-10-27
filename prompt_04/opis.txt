@@ -1,0 +1,3 @@
+# Niebiesko-fioletowy fraktal z kwadratów i spirali
+
+Mozaika z 11 kwadratów o bokach 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 i 89. Proporcjonalne pola z wpisanymi łukami składają się na niebiesko-fioletową spiralę na białym tle.

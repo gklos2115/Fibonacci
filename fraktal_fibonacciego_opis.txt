@@ -1,0 +1,21 @@
+FRAKTAL FIBONACCIEGO — KWADRATY I SPIRALA
+
+Grafika przedstawia mozaikę złożoną z 11 kwadratów. Długości boków
+odpowiadają kolejnym liczbom Fibonacciego:
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89.
+Kwadraty są układane kolejno wokół poprzedniego wzoru, dzięki czemu
+zachowane są ich proporcje i powstaje charakterystyczny spiralny układ.
+
+W każdym kwadracie znajduje się ćwierćokrąg dopasowany do jego boku.
+Połączone łuki tworzą spiralę Fibonacciego. Jasne niebieskie i fioletowe
+wypełnienia, ciemne obrysy oraz nasycone łuki ułatwiają odczytanie
+geometrycznej konstrukcji.
+
+Tło jest białe. Obraz PNG ma rozdzielczość 3000 x 3000 pikseli i 300 dpi.
+
+PLIKI
+fraktal_fibonacciego.png — gotowa grafika.
+fraktal_fibonacciego_opis.txt — opis obrazu.
+generuj_fraktal_fibonacciego.py — skrypt źródłowy.
+Uruchomienie: python generuj_fraktal_fibonacciego.py
+Wymagana biblioteka: Pillow.

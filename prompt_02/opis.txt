@@ -1,0 +1,3 @@
+# Niebiesko-zielony fraktal z kwadratów i spirali
+
+Jedenaście proporcjonalnych kwadratów Fibonacciego z niebieskimi i zielonymi łukami ćwierćokręgów, które tworzą spiralę. Jasne wypełnienia i białe tło.

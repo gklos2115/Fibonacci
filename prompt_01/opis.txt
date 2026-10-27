@@ -1,0 +1,3 @@
+# Kolorowy fraktal Fibonacciego z kwadratów
+
+Kolorowa mozaika 11 kwadratów o bokach zgodnych z ciągiem Fibonacciego. Kwadraty tworzą spiralny układ, mają wyraźne ciemne obrysy i białe tło.

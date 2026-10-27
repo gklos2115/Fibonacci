@@ -1,0 +1,3 @@
+# Prosty, symetryczny fraktal Fibonacciego
+
+Symetryczna kompozycja z 11 zagnieżdżonych kwadratów Fibonacciego i geometrycznych rombów w błękitach i zieleni. Jasne tło, wysoka rozdzielczość i 300 dpi.
